@@ -15,11 +15,6 @@
 npm test
 ```
 
-### Run in browser
-```sh
-npm start
-```
-
 open http://localhost:8080
 
 ---

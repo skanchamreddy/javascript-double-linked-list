@@ -15,6 +15,4 @@
 npm test
 ```
 
-open http://localhost:8080
-
----
+Fix the failed tests by implementing the methods in `src/linked-list.js`
